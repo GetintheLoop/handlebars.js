@@ -44,7 +44,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt-saucelabs": "~4.1.2",
     "es6-module-packager": "0.x",
-    "jison": "~0.3.0",
+    "jison": "~0.4.18",
     "keen.io": "0.0.3",
     "mocha": "*",
     "mustache": "~0.7.2",
